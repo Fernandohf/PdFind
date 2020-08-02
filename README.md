@@ -1,3 +1,3 @@
 # PdFind
 
-CLI tool to perform OCR on .pdf files and make then searchable.
+Simple tool to perform OCR on .pdf files and make then searchable.
