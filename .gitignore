@@ -1,5 +1,6 @@
-ui/__pycache__/*
+/__pycache__/*
 *.bak
 /.vscode
 *.jpg
 /temp
+/output

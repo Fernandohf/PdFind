@@ -4,7 +4,7 @@ Simple tool to perform OCR on .pdf files and make then searchable.
 
 ## Requirements
 
-
+TODO
 
 ## How to run
 
