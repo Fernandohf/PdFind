@@ -1,4 +1,3 @@
-#!D:\Miniconda\envs\pdfind\python.exe
 #
 # Copyright 2013 Google Inc. All Rights Reserved.
 #
