@@ -30,7 +30,7 @@ class Frame(wx.Frame):
             self.main_pane, wx.ID_ANY, "Abrir arquivo")
         self.run_button = wx.Button(
             self.main_pane, wx.ID_ANY, "Processar arquivos")
-        self.progress_bar = ProgressWidget(self.main_pane, wx.ID_ANY)
+        self.progress_bar = wx.ProgressWidget(self.main_pane, wx.ID_ANY)
         self.settings_pane = wx.Panel(self.notebook_1, wx.ID_ANY)
 
         self.__set_properties()
