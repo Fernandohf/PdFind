@@ -1,4 +1,4 @@
-# <img width="20" href=https://raw.githubusercontent.com/Fernandohf/PdFind/master/convert_pdf/midia/search.svg> PdFind
+# <img src="https://raw.githubusercontent.com/Fernandohf/PdFind/master/convert_pdf/midia/search.svg" width="20" href="https://github.com/Fernandohf/PdFind> PdFind
 [![GitHub license](https://img.shields.io/github/license/Fernandohf/PdFind)](https://github.com/Fernandohf/PdFind/blob/master/LICENSE)
 ![Python application](https://github.com/Fernandohf/PdFind/workflows/Python%20application/badge.svg?branch=master)
 
